@@ -1,0 +1,13 @@
+.line{
+    position: absolute;
+    font-size: 16px;
+    transition: all 300ms;
+}
+
+.middle{
+    font-weight: 600;
+    font-size: 24px;
+    color: rgb(237, 118, 39);
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
